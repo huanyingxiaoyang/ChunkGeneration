@@ -3,10 +3,3 @@
 
 #include "DebugHelper/DebugHelper.h"
 
-DebugHelper::DebugHelper()
-{
-}
-
-DebugHelper::~DebugHelper()
-{
-}
